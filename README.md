@@ -1,2 +1,4 @@
 # Seminar_II2024-25
-project and Practicals
+## Yash Bachewar
+### SY-A:128
+project , Report and Practicals
